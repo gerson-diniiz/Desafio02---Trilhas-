@@ -1,3 +1,5 @@
+![Capa do Desafio 2 Trilhas](Capa.png)
+
 # __Projeto de Formulário de Inscrição__
 
 ## 📌Sobre o projeto
