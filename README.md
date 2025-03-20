@@ -1,47 +1,41 @@
-📌 Formulário de Inscrição
+# __Projeto de Formulário de Inscrição__
 
-📖 Sobre o projeto
+## 📌Sobre o projeto
 
 Este projeto é um formulário de inscrição interativo desenvolvido com HTML, CSS e JavaScript, permitindo que os usuários preencham seus dados pessoais, enviem documentos e escolham uma trilha de aprendizagem. O sistema realiza validações para garantir que todos os campos obrigatórios sejam preenchidos corretamente.
 
-🔨 Funcionalidades do projeto
+## 🔨Funcionalidades do projeto
 
-- Captura de informações pessoais (nome, CPF, data de nascimento, e-mail, telefone, endereço, etc.).
+- __Captura de informações pessoais__ (nome, CPF, data de nascimento, e-mail, telefone, endereço, etc.).
 
-- Upload de arquivos (cópia de identidade e comprovante de residência).
+- __Upload de arquivos__ (cópia de identidade e comprovante de residência).
 
-- Seleção de trilha de aprendizagem.
+- __Seleção de trilha de aprendizagem__.
 
-- Validação de campos obrigatórios, incluindo formatação de CPF e e-mail.
+- __Validação de campos obrigatórios__, incluindo formatação de CPF e e-mail.
 
-- Exibição de mensagens de erro quando um campo estiver incorreto ou não preenchido.
+- __Exibição de mensagens de erro__ quando um campo estiver incorreto ou não preenchido.
 
-- Função de limpeza de formulário e mensagens de erro.
-
-
-✔️ Técnicas e tecnologias utilizadas
-
-HTML: Estruturação do formulário.
-
-CSS: Estilização e layout responsivo.
-
-JavaScript: Captura de dados e validação de formulário.
+- __Função de limpeza de formulário e mensagens de erro__.
 
 
-📁 Acesso ao projeto
+## ✔️ Técnicas e tecnologias utilizadas
 
-Para acessar o projeto, você pode clonar o repositório:
+- __HTML__: Estruturação do formulário.
 
-Ou simplesmente abrir o arquivo index.html em seu navegador.
+- __CSS__: Estilização e layout responsivo.
 
-🛠️ Como rodar o projeto
+- __JavaScript__: Captura de dados e validação de formulário.
 
-Baixe ou clone o repositório.
 
-Abra o arquivo index.html em um navegador web.
+## 📁Acesso ao projeto
 
-Preencha o formulário e teste as funcionalidades.
+Para acessar o projeto, você pode clonar esse repositório. 
 
-📚 Mais informações
+## 🛠️Como rodar o projeto
+
+Para abrir e rodar o projeto, basta abrir o aquivo index.html no navegador.
+
+## 📚Mais informações
 
 Este projeto foi desenvolvido seguindo os conceitos abordados no curso de HTML, CSS e JavaScript da Alura.
